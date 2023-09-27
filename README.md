@@ -3,38 +3,38 @@ This is my test base for Codeception automation Test
 
 
 Requirements to run: 
- 1. Download and install XAMPP
+1. Download and install XAMPP
     
   https://www.apachefriends.org/ 
 
 (Optional) 
 
- 2. Download and install Node JS ( required for Selenium installation)
+2. Download and install Node JS ( required for Selenium installation)
     
   https://nodejs.org/en/download/current 
  
- 4. Download and install Selenium
+4. Download and install Selenium
     
   https://www.npmjs.com/package/selenium-standalone 
  
 ============================================================ 
  
 Steps to use: 
- 1. Make sure tthat php is added on your local computer 'Path' environment variable
+1. Make sure tthat php is added on your local computer 'Path' environment variable
    
    -> Go to environment variable 
    -> edit path 
    -> add the php directory folder under XAMPP installation folder (ex: C:\xammp\php )
    
- 3. Clone the repository under C:\xammp\php\htdocs\Projects 
+3. Clone the repository under C:\xammp\php\htdocs\Projects 
  
 (Optional: Selenium) 
  
- 3. Before running the test scripts, make sure to eun the selimum intance on another terminal
+3. Before running the test scripts, make sure to eun the selimum intance on another terminal
    
    -> Run this on terminal 'selenium-standalone start' 
  
- 5. Now your setup is complete you can now edit and run your test script via gitbash or on you favorite terminal. 
+5. Now your setup is complete you can now edit and run your test script via gitbash or on you favorite terminal. 
  
 ============================================================ 
  
