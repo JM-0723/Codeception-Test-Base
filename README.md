@@ -30,6 +30,7 @@ Steps to use:
 4. Now your setup is complete you can now edit and run your test script via gitbash or on you favorite terminal. 
  
 ============================================================ 
+ 
 Sample Codeception commands to run for file creation : 
  
 a. Create env file  
@@ -41,6 +42,7 @@ c. Create acceptance test file
   -> php vendor/bin/codecept g:cest Acceptance [filename] 
  
 ============================================================ 
+ 
 Sample Codeception commands to run acceptance tests: 
  
 a. Per test 
