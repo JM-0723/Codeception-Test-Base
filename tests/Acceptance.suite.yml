@@ -12,7 +12,7 @@ modules:
         browser: chrome
     - \Tests\Support\Helper\Acceptance
 env:
-  test_env:
+  test_env: #environment to be use
     modules:
       config:
         url: https://www.google.com/

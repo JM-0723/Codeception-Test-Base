@@ -1,0 +1,6 @@
+# `data_sample` environment config goes here
+modules:
+  config:
+    \Tests\Support\Helper\Acceptance:
+      home: "/"
+      home_element: "img.lnXdpd"
