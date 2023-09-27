@@ -7,6 +7,7 @@ Requirements to run:
 https://www.apachefriends.org/ 
 
 (Optional) 
+
 2. Download and install Node JS ( required for Selenium installation) 
 https://nodejs.org/en/download/current 
  
@@ -51,17 +52,17 @@ c. Create acceptance test file
 ============================================================ 
  
 Sample Codeception commands to run acceptance tests: 
- 
+  
 a. Per test 
-
+ 
   -> php vendor/bin/codecept run Acceptance [filename] --env [site],[config],[data] 
- 
+  
 b. In a group / multiple tests 
-
-  -> php vendor/bin/codecept run Acceptance -g [groupname] --env [site],[config],[data] 
  
-c. To show steps while running, add --steps 
-
+  -> php vendor/bin/codecept run Acceptance -g [groupname] --env [site],[config],[data]  
+  
+c. To show steps while running, add --steps  
+ 
   -> php vendor/bin/codecept run Acceptance [filename] --env [site],[config],[data] --steps 
   
  
