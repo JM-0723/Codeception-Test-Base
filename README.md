@@ -1,5 +1,5 @@
 # Codeception-Test-Base 
-This is my test base for Codeception automation Test 
+This is my test base for Codeception automation
 
 
 Requirements to run: 
