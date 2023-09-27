@@ -1,0 +1,6 @@
+# `config_local_windows_chrome` environment config goes here
+modules:
+  config:
+    - WebDriver:
+        url: http://localhost/
+        browser: chrome # 'chrome' or 'firefox'
