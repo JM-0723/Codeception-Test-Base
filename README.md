@@ -27,7 +27,7 @@ Steps to use:
 3. Before running the test scripts, make sure to eun the selimum intance on another terminal 
    -> Run this on terminal 'selenium-standalone start' 
  
-4. Now your setup is complete you can now edit and run your test script via gitbash or on you favorit terminal. 
+4. Now your setup is complete you can now edit and run your test script via gitbash or on you favorite terminal. 
  
 ============================================================ 
 Sample Codeception commands to run for file creation : 
