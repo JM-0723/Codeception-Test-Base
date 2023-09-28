@@ -30,7 +30,7 @@ Steps to use:
  
 (Optional: Selenium) 
  
-3. Before running the test scripts, make sure to eun the selimum intance on another terminal
+3. Before running the test scripts, make sure to run the selenium intance on another terminal
    
    -> Run this on terminal 'selenium-standalone start' 
  
