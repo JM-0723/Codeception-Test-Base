@@ -34,7 +34,7 @@ Steps to use:
    
    -> Run this on terminal 'selenium-standalone start' 
  
-5. Now your setup is complete you can now edit and run your test script via gitbash or on you favorite terminal. 
+5. Now your setup is complete you can now edit and run your test script via gitbash or any local terminal. 
  
 ============================================================ 
 
